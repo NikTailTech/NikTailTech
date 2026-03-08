@@ -40,9 +40,7 @@ I’m always excited to contribute to **open-source** projects. If you're workin
 
 ---
 
-![NikTailTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikTailTech&count_private=true&show_icons=true&theme=transparent)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikTailTech&theme=transparent)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikTailTech&theme=transparent&layout=compact)
 
 ---
 
