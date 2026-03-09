@@ -1,7 +1,7 @@
 # Hey there, I'm **Nicholas** 👋  
 ### Full Stack Developer | Cybersecurity Explorer | Tech Enthusiast  
 
-🇨🇭 Based in Switzerland  
+📍 Based in Switzerland  
 💻 Working as Full Stack Developer for Franklin University  
 📚 Always busy learning something
 
