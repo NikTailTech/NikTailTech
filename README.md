@@ -4,7 +4,7 @@
 ### Full Stack Developer | Software Engineer | Tech Enthusiast
 
 📍 Based in Switzerland 🇨🇭  
-💻 Full Stack Developer at Franklin University Switzerland  
+💻 Full Stack Developer at Franklin Switzerland  
 🚀 Building scalable web applications, exploring new technologies, and turning ideas into reality.
 
 I'm a Full Stack Developer passionate about building modern, scalable, and user-focused applications. I enjoy working across the entire development lifecycle, from designing intuitive interfaces to developing backend architectures, integrating APIs, and deploying applications to production.
