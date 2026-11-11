@@ -1,38 +1,112 @@
-# Hey there, I'm **Nicholas** 👋  
-### Full Stack Developer | Cybersecurity Explorer | Tech Enthusiast  
 
-📍 Based in Switzerland  
-💻 Working as Full Stack Developer for Franklin University  
-📚 Always busy learning something
+# Hey there, I'm Nicholas 👋
 
----
+### Full Stack Developer | Software Engineer | Tech Enthusiast
 
-### 🛠️ **Tech Stack & Tools**  
+📍 Based in Switzerland 🇨🇭  
+💻 Full Stack Developer at Franklin University Switzerland  
+🚀 Building scalable web applications, exploring new technologies, and turning ideas into reality.
 
-I live and breathe **JavaScript** and love building with JS frameworks like **NextJS**, **ReactJS**, and **TailwindCSS**. Here are the tools and languages I’m using (and learning):
+I'm a Full Stack Developer passionate about building modern, scalable, and user-focused applications. I enjoy working across the entire development lifecycle, from designing intuitive interfaces to developing backend architectures, integrating APIs, and deploying applications to production.
 
-- **Languages**: JavaScript (Vanilla), TypeScript
-- **Frameworks & Libraries**: NextJS, ReactJS, TailwindCSS, Prisma, Zod, Supabase
-- **Cloud**: Vercel, Cloudflare, AWS S3
-- **Other cool stuff**: CMS & CRM Integration, Figma Design and more!
-  
----
-
-### 🚀 **What I'm Working On**  
-- **NextJS Website Revamp** for a **Cat Association** 🐱: Who says you can't combine cats with tech? I'm working on building an awesome new site with a **CMS** (Admin dashboard still TBD... but it's coming).
-- **Cybersecurity Projects**: Just a hobby for now, but I’m diving deeper into network security and penetration testing tools. Also to add security to my projects.
+I'm always exploring new technologies, experimenting with different tools, and looking for opportunities to improve the way software is built.
 
 ---
 
-### 🤝 **Let's Build Something Together!**  
-I’m always excited to contribute to **open-source** projects. If you're working on something cool, hit me up! Also, if you’re just looking for a collaborator on a side project or need someone who loves to discuss tech (and cats), let’s chat!
+### 🛠️ Tech Stack & Technologies
+
+**Languages**
+- JavaScript (ES6+)
+- TypeScript
+- PHP
+- HTML5 & CSS3
+
+**Frontend Development**
+- React.js
+- Next.js
+- React Native
+- Tailwind CSS
+- shadcn/ui
+
+**Backend & Database**
+- Node.js
+- Prisma ORM
+- Zod
+- Supabase
+- MongoDB
+- REST APIs
+
+**Cloud & Infrastructure**
+- Vercel
+- Cloudflare
+- AWS S3
+- Docker
+- Kubernetes
+- Linux
+- Git & GitHub
+
+**CMS & Integrations**
+- Drupal 9 / Drupal 11
+- Headless CMS architectures
+- CRM integrations
+- Third-party API integrations
+- Payment integrations (Stripe)
+
+**Design & Creative Tools**
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
+- Adobe After Effects
+- 3D Modeling & 3D Printing
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikTailTech&theme=transparent)  
+### 🚀 What I'm Working On
+
+- **Full Stack Development:** Building and maintaining production-ready applications using React, Next.js, Node.js, and TypeScript.
+- **Headless CMS Architectures:** Working with Drupal and Next.js to develop modern, decoupled web experiences.
+- **Mobile Development:** Exploring and building cross-platform applications with React Native.
+- **Homelab & Infrastructure:** Experimenting with Linux, Proxmox, Kubernetes, Docker, and self-hosted services.
+- **Cybersecurity & Networking:** Exploring network security, penetration testing, and security best practices to build more resilient applications.
+- **Web3 & Blockchain:** Keeping up with decentralized technologies, cryptocurrencies, and blockchain ecosystems.
 
 ---
 
-## 📫 How to reach me
-Send me an email: [codazzi.nicholas03@gmail.com](mailto:codazzi.nicholas03@gmail.com)  
-Connect with me on **[LinkedIn](https://linkedin.com/in/nicholas-codazzi)**!  
+### 🧠 Beyond Coding
+
+Technology has always been more than just software development for me.
+
+I'm particularly interested in:
+- **Web3 & Blockchain:** Decentralized applications, cryptocurrencies, and NFT ecosystems.
+- **Homelab & Networking:** Self-hosted infrastructure, virtualization, and network administration.
+- **3D Modeling & Printing:** Organic and non-organic modeling, digital fabrication, and prototyping.
+- **Graphic & Motion Design:** Exploring the intersection between software, design, and creativity.
+
+I enjoy experimenting, learning by building, and exploring how different technologies can work together.
+
+---
+
+### 🤝 Let's Build Something Together!
+
+I'm always open to collaborating on interesting projects, contributing to open-source software, and connecting with people who share the same passion for technology.
+
+Whether it's a challenging software project, an innovative idea, or simply a conversation about technology, feel free to reach out!
+
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikTailTech&theme=transparent)
+
+---
+
+### 📫 Get in Touch
+
+- **Email:** [codazzi.nicholas03@gmail.com](mailto:codazzi.nicholas03@gmail.com)
+- **LinkedIn:** [nicholas-codazzi](https://www.linkedin.com/in/nicholas-codazzi/)
+- **GitHub:** [NikTailTech](https://github.com/NikTailTech)
+
+---
+
+⭐ *Always learning. Always building. Always exploring.*
